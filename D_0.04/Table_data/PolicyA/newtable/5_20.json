@@ -1,0 +1,14 @@
+{
+    "P2_feasibility_rate1": 0.9987777777777779,
+    "P2_feasibility_rate2": 0.9796666666666666,
+    "P2_feasibility_rate3": 0.9322222222222223,
+    "avg_rate_vij1_1": 2.7441,
+    "avg_rate_vij2_1": 1.8239,
+    "avg_rate_vij1_2": 1.8834,
+    "avg_rate_vij2_2": 1.2436,
+    "avg_rate_vij1_3": 1.4865,
+    "avg_rate_vij2_3": 0.9801,
+    "time_P2_1": 11.405419826507568,
+    "time_P2_2": 1.6256532669067383,
+    "time_P2_3": 1.5182435512542725
+}
